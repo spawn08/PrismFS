@@ -29,7 +29,7 @@ A lightweight, high-performance distributed file system written in Go. PrismFS s
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-org/prismfs.git
+[git clone https://github.com/your-org/prismfs.git](https://github.com/spawn08/PrismFS.git)
 cd prismfs
 
 # Build the binary
